@@ -1,0 +1,8 @@
+{
+  "name": "davideugenepratt/magento2-demo",
+  "description": "A package that throws a Magento2 demo site into your dev dependencies.",
+  "version" : "v0.1.0",
+  "require": {
+    "php": "^5.3.3 || ^7.0"
+  }
+}
